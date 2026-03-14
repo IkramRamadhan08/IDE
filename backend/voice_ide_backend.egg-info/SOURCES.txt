@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+voice_ide_backend/__init__.py
+voice_ide_backend/agent.py
+voice_ide_backend/fs.py
+voice_ide_backend/main.py
+voice_ide_backend/settings.py
+voice_ide_backend.egg-info/PKG-INFO
+voice_ide_backend.egg-info/SOURCES.txt
+voice_ide_backend.egg-info/dependency_links.txt
+voice_ide_backend.egg-info/requires.txt
+voice_ide_backend.egg-info/top_level.txt
